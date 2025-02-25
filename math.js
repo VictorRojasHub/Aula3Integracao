@@ -1,4 +1,5 @@
 function add (a, b){ //função nomeada
+    return a + b;
 }
 
 const subtract = function (a, b) { //função anônima
